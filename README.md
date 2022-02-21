@@ -25,3 +25,4 @@ After selecting the criteria, the code I have written randomly uses a mixture of
 
 ## This is the link to the deployed application
 
+ https://hogtown13.github.io/Password-Generator/
