@@ -6,7 +6,7 @@ After selecting the criteria, the code I have written randomly uses a mixture of
 
 ## Here is a screenshot of the password generator webpage
 
-
+<img src = "Develop/Screen Shot 2022-02-20 at 8.06.59 PM copy.png">
 
 
 
